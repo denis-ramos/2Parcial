@@ -28,6 +28,10 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+  background: hsl(0, 0%, 8%);
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 h1 {
