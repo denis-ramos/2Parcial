@@ -3,7 +3,7 @@ import primercom from './primercom'
 import segcom from './segcom'
 function Composicion() {
   return (
-    <div>Composicion</div>
+    <h1>ise todo pero me olvide lo ultimo</h1>
   )
 }
 
